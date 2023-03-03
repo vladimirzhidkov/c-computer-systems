@@ -1,5 +1,5 @@
-EXEC := link.out
-OBJS := main.o
+EXEC := link.out 
+OBJS := main.o sum.o
 
 DEBUG_FLAGS := -g
 
